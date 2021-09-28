@@ -1,4 +1,4 @@
-# harivara_test
+# TextScaleApp
 
 A new Flutter project.
 
